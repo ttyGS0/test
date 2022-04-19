@@ -1,4 +1,3 @@
-# test
-[test](https://ttygs0.ddns.net:8001/)
+# Phish_teams
+[Phish_teams](https://ttygs0.ddns.net:8001/)
 
-[tvn](https://tvn24.pl)
